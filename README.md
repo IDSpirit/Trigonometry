@@ -1,2 +1,2 @@
 # Trigonometry
-Trigonometry Solver
+This is a trigonometry solver that I created during high school
